@@ -1,0 +1,1 @@
+# synaptics_lvfs_status
